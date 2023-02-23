@@ -3,3 +3,4 @@ PRODUCT İLE İLGİLİ İŞLEMLER
 -----------ebc branchi
 taskini tamamladı
 2. özellikler
+2.özellik(conflig)
